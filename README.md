@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at jmfleischman@gmail.com
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I'm looking for job oppurtunities in the Chicago area and am open to new oppurtunities! 
+- ⚡ Fun fact: I'm looking for job opportunities in the Chicago area
 
 <!---
 jmf26/jmf26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
